@@ -19,8 +19,10 @@ XCode thenmes
 </p>
 
 ## Install
-Put files here
-'
+----------------
+Put files here:
+
+```
 cd ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-'
+```
 
