@@ -1,4 +1,4 @@
-XCode thenmes
+XCode themes
 ----------------
 
 ## Font
